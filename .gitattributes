@@ -1,0 +1,10 @@
+# C++ / C / CMake
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
+*.cmake linguist-detectable=false
+# HTML
+*.html linguist-detectable=false
+# Swift
+*.swift linguist-detectable=false
