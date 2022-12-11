@@ -8,3 +8,5 @@ CMakeLists.txt linguist-detectable=false
 *.html linguist-detectable=false
 # Swift
 *.swift linguist-detectable=false
+# Kotlin
+*.kt linguist-detectable=false
